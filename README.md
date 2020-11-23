@@ -1,2 +1,2 @@
 # MatematikaGkAsik
-I love pytho
+I love python
