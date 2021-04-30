@@ -1,2 +1,3 @@
 # MatematikaGkAsik
-I love python
+Matematika sederhana
+
