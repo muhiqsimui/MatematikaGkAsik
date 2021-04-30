@@ -1,3 +1,1 @@
 # MatematikaGkAsik
-Matematika sederhana
-
