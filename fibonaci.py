@@ -1,6 +1,6 @@
 #fibonaci 
 
-# OLD CODE
+# OLD CODE NOT GOOD TO SLOW
 def fibonaci(n):
     a,b = 0,1
     while a<n:
@@ -10,7 +10,7 @@ def fibonaci(n):
     
 fibonaci(100)
 
-# THIS IS BETTER
+# THIS IS BETTER VERY FAST LIKE USAIN BOLTZ I RECOMENDED TO YOU TRUST ME XD USE TO YOUR PROJECT
 def fibonacci(num):
   if (num <= 1):
     return num
